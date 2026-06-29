@@ -7,12 +7,14 @@ Hello there, I'm a C++/Unity developer focused on game engines, computer graphic
 ## Projects/проекты 
 
 ### Painting Battle Game 
+
 [Repository/Репозиторий](https://github.com/RubenAlxS/Overkill-Project)
 
 Прототип экшен-игры от третьего лица с фокусом на игровые механики, рисование по поверхностям.
 A third-person action game prototype focused on gameplay mechanics and surface painting.
 
 ### Lux Mechanicus
+
 [Repository/Репозиторий](https://github.com/NiZe42/LuxMechanicus)
 
 https://github.com/user-attachments/assets/d7de420f-3556-4378-bb0c-724e640b36a9
@@ -21,26 +23,36 @@ https://github.com/user-attachments/assets/d7de420f-3556-4378-bb0c-724e640b36a9
 A custom C++/OpenGL game engine built from scratch to explore game engine architecture.
 
 ### AR Cannon game
+
 [Repository/Репозиторий](https://github.com/NiZe42/ProjectInnovation)
+
 Игра дополнительной реальности, где нужно разрушить креость.
 An augmented reality game centered around destroying a fortress.
 
 ### Space Bullet Hell
+
 [Repository/Репозиторий](https://github.com/Gnimacz/project-lift-off)
+
 Командный игровой проект, bullet hell.
 A collaborative bullet hell game developed as a team project.
 
 ### SpiderIK
+
 [Repository/Репозиторий](https://github.com/NiZe42/SpiderIK)
+
 Паук, который ходит с помощью инверсной кинематики. Unreal Engine.
 A procedural spider locomotion system using inverse kinematics in Unreal Engine.
 
 ### CuttingMGR
+
 [Repository/Репозиторий](https://github.com/NiZe42/CuttingMGR)
+
 Первый проект в Unreal Engine. Имитация рахрезания мешей как в Metal Gear Rising.
 My first Unreal Engine project, recreating real-time mesh slicing inspired by Metal Gear Rising.
 
 ### Poly Bridge
+
 [Repository/Репозиторий](https://github.com/NiZe42/Poly-Bridge)
+
 Система симуляции физического поведения моста без учета весаю
 A bridge physics simulation system focused on structural behavior without load simulation.
