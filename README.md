@@ -48,7 +48,7 @@ A procedural spider locomotion system using inverse kinematics in Unreal Engine.
 
 [Repository/Репозиторий](https://github.com/NiZe42/CuttingMGR)
 
-Первый проект в Unreal Engine. Имитация рахрезания мешей как в Metal Gear Rising.
+Первый проект в Unreal Engine. Имитация разрезания мешей как в Metal Gear Rising.
 My first Unreal Engine project, recreating real-time mesh slicing inspired by Metal Gear Rising.
 
 ### Poly Bridge
