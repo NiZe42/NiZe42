@@ -5,7 +5,7 @@ Hello there, I'm a C++/Unity developer focused on game engines, computer graphic
 
 [Resume / Резюме (PDF)](https://github.com/user-attachments/files/26887525/-1.pdf) 
 
-## Projects/проекты 
+## My projects/Мои проекты 
 
 ### Painting Battle Game 
 
