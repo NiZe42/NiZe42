@@ -6,36 +6,37 @@ Hello there, I'm a C++/Unity developer focused on game engines, computer graphic
 
 ## Projects/проекты 
 
-### Overkill Project <!-- VIDEO --> 
-A third-person action game prototype developed as a collaborative project. My contribution focused on gameplay programming, engine-side systems, rendering improvements, and technical implementation of gameplay mechanics. The project emphasizes scalable architecture, maintainable code, and production-oriented workflows.
+### Overkill Project
 
-Прототип экшен-игры от третьего лица, разработанный в составе команды. Моей основной областью ответственности были программирование игровых механик, разработка систем движка, улучшение рендеринга и техническая реализация игровых возможностей. Проект ориентирован на масштабируемую архитектуру и качественную организацию кода. 
+Прототип экшен-игры от третьего лица с фокусом на игровые механики, рисование по поверхностям.
+A third-person action game prototype focused on gameplay mechanics and surface painting.
 
-### Lux Mechanicus <!-- VIDEO --> 
-A custom graphics and rendering engine written in modern C++ and OpenGL. The project explores physically based rendering, shadow mapping, post-processing, deferred rendering, GPU resource management, ECS architecture, and engine tooling. It serves as a platform for experimenting with advanced real-time rendering techniques.
+### Lux Mechanicus
 
-Собственный графический движок на современном C++ и OpenGL. Проект посвящён исследованию , теней, постобработки, отложенного рендеринга, управления GPU-ресурсами, ECS-архитектуры и инструментов разработки. Используется как площадка для экспериментов с современными технологиями компьютерной графики.
+Собственный графический движок на C++/OpenGL, написанный с нуля для исследования архитектуры игровых движков.
+A custom C++/OpenGL game engine built from scratch to explore game engine architecture.
 
-### Project Innovation <!-- VIDEO --> 
-An experimental engine and gameplay framework created to prototype new rendering techniques, gameplay systems, and engine architecture ideas. The repository combines reusable engine components with rapid iteration workflows for research and development. 
+### Project Innovation
 
-Экспериментальный игровой движок и набор игровых систем, созданный для исследования новых подходов к архитектуре движков, рендерингу и разработке игровых механик. Проект сочетает модульность, переиспользуемые компоненты и быстрый цикл разработки. 
+Игра дополнительной реальности, где нужно разрушить креость.
+An augmented reality game centered around destroying a fortress.
 
-### Project Lift-Off <!-- VIDEO --> 
-A collaborative game project developed within a multidisciplinary team. The project demonstrates gameplay programming, engine integration, optimization, and teamwork throughout the full development cycle. 
+### Project Lift-Off
 
-Командный игровой проект, разработанный совместно с участниками разных направлений. Демонстрирует опыт командной разработки, реализации игровых механик, интеграции систем движка и оптимизации производительности. 
+Командный игровой проект, bullet hell.
+A collaborative bullet hell game developed as a team project.
 
-### SpiderIK <!-- VIDEO --> 
-An implementation of procedural spider locomotion using inverse kinematics. The project demonstrates dynamic foot placement, body stabilization, terrain adaptation, and animation blending techniques commonly used in modern games.
+### SpiderIK
 
-Реализация процедурной анимации паука с использованием обратной кинематики. Проект демонстрирует динамическое позиционирование лап, стабилизацию корпуса, адаптацию к поверхности и методы процедурной анимации, применяемые в современных играх. 
-### CuttingMGR <!-- VIDEO --> 
-A real-time mesh slicing system inspired by Metal Gear Rising. The project focuses on runtime mesh cutting, procedural mesh generation, physics integration, and preserving rendering performance during complex geometry modifications. 
+Паук, который ходит с помощью инверсной кинематики. Unreal Engine.
+A procedural spider locomotion system using inverse kinematics in Unreal Engine.
 
-Система разрезания мешей в реальном времени, вдохновлённая механикой Metal Gear Rising. Проект демонстрирует алгоритмы разрезания геометрии, процедурную генерацию новых мешей, интеграцию с физикой и оптимизацию производительности.  
-### Poly Bridge <!-- VIDEO --> 
+### CuttingMGR
 
-A physics-based bridge construction project exploring structural simulation, rigid body interaction, and gameplay systems centered around engineering challenges. The implementation focuses on stability, simulation accuracy, and modular architecture.
+Первый проект в Unreal Engine. Имитация рахрезания мешей как в Metal Gear Rising.
+My first Unreal Engine project, recreating real-time mesh slicing inspired by Metal Gear Rising.
 
-Проект по созданию физически моделируемых мостов, исследующий симуляцию конструкций, взаимодействие физических объектов и игровые механики, основанные на инженерных задачах. Основное внимание уделено устойчивости симуляции, точности расчётов и модульной архитектуре.  
+### Poly Bridge
+
+Система симуляции физического поведения моста без учета весаю
+A bridge physics simulation system focused on structural behavior without load simulation.
